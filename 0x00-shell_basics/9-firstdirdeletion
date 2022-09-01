@@ -1,2 +1,17 @@
 #!/bin/bash
-rm my_first_directory
+rm -d /tmp/my_first_directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
